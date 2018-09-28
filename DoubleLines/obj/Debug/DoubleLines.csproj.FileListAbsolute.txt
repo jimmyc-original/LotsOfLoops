@@ -1,0 +1,6 @@
+c:\users\ja122756\documents\visual studio 2015\Projects\DoubleLines\DoubleLines\bin\Debug\DoubleLines.exe.config
+c:\users\ja122756\documents\visual studio 2015\Projects\DoubleLines\DoubleLines\bin\Debug\DoubleLines.exe
+c:\users\ja122756\documents\visual studio 2015\Projects\DoubleLines\DoubleLines\bin\Debug\DoubleLines.pdb
+c:\users\ja122756\documents\visual studio 2015\Projects\DoubleLines\DoubleLines\obj\Debug\DoubleLines.csprojResolveAssemblyReference.cache
+c:\users\ja122756\documents\visual studio 2015\Projects\DoubleLines\DoubleLines\obj\Debug\DoubleLines.exe
+c:\users\ja122756\documents\visual studio 2015\Projects\DoubleLines\DoubleLines\obj\Debug\DoubleLines.pdb
